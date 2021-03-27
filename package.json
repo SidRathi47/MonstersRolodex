@@ -1,7 +1,7 @@
 {
   "name": "MonstersRolodex",
   "version": "0.1.0",
-  "homepage": "https://github.com/SidRathi47/MonstersRolodex",
+  "homepage": "https://SidRathi47.github.io/MonstersRolodex",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
